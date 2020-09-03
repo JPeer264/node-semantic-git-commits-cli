@@ -50,7 +50,6 @@
   ],
   "homepage": "https://github.com/JPeer264/node-semantic-git-commit-cli#readme",
   "devDependencies": {
-    "@types/chalk": "^2.2.0",
     "@types/findup-sync": "^2.0.2",
     "@types/jest": "^25.2.3",
     "@types/lodash.merge": "^4.6.6",

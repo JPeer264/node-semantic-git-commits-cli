@@ -130,6 +130,14 @@ This will check all commits and will fail if your commits do not meet the define
 $ sgc check --start 84a1abd
 ```
 
+### which-config
+
+This command shows which configs gets applied to `sgc`
+
+```sh
+$ sgc which-config
+```
+
 ## Config
 
 > Just create a `.sgcrc` in your project root or you can add everything in your `package.json` with the value `sgc`

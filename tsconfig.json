@@ -12,12 +12,13 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "outDir": "dest",
-    "rootDir": "lib"
+    "rootDir": "lib",
+    "typeRoots": [
+      "./node_modules/@types",
+      "./typings"
+    ]
   },
   "include": [
     "lib"
-  ],
-  "files": [
-    "./global.d.ts"
   ]
 }
